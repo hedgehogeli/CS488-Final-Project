@@ -1,6 +1,6 @@
 # CS488 Introduction to Computer Graphics Final Project
 
-Simple raytracer that handles:
+### Raytracer that handles:
 - Refraction, Snell-style mixed with reflection via a Schlick-style Fresnel term. Handles total internal reflection (reflection in general) and mirror surfaces.
 - Blinn–Phong lighting with distance light falloff.
 - Shadows, attenuated through participating media and transparent objects when along shadow ray

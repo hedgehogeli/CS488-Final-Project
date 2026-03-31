@@ -13,3 +13,6 @@ Simple raytracer that handles:
 ## Final Project
 
 Animation of a Newton's cradle with somewhat realistic physics and sound.
+
+Compressed (see final.mp4 for better):
+https://github.com/user-attachments/assets/afee0547-f73b-4cff-add1-e697d6ec550c
